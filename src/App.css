@@ -24,6 +24,40 @@
   color: white;
 }
 
+
+.todo-header{
+  color:brown;
+}
+
+.buttons{
+  margin:8px;
+  font-size: 18px;
+  background-color:cadetblue;
+  color:white;
+  border-radius: 5px;
+}
+.style input{
+  font-size: 22px;
+  border-radius: 8px;
+  
+}
+.adds {
+  font-size: 20px;
+  background-color:cadetblue;
+  color:white;
+  border-radius: 5px;
+
+}
+.texts{
+  color:white;
+  margin-left:10px;
+  font-size: 30px;
+}
+
+.app-design{
+  background-color: black;
+  padding:10px;
+}
 .App-link {
   color: #61dafb;
 }
